@@ -3,9 +3,11 @@ package us.gotcurio.achmadns.cucumber;
 import org.springframework.stereotype.Component;
 
 import io.cucumber.spring.ScenarioScope;
-import lombok.Data;
+import lombok.Getter;
+import lombok.Setter;
 
-@Data
+@Getter
+@Setter
 @Component
 @ScenarioScope
 public class ScenarioContext {
