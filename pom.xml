@@ -11,7 +11,7 @@
 	<groupId>us.gotcurio.achmadns</groupId>
 	<artifactId>cucumber</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cucumber</name>
+	<name>cucumber-spring-example</name>
 	<description>Demo project for Spring Boot and Cucumber</description>
 	<properties>
 		<java.version>1.8</java.version>
